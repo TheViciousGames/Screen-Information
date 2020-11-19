@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Screen Information</string>
+    <string name="resolution">Resolution</string>
+    <string name="RESOLUTION">RESOLUTION</string>
+    <string name="nullString">null</string>
+    <string name="real_resolution">Real Resolution</string>
+    <string name="refresh_rate">Refresh Rate</string>
+    <string name="REFRESH_RATE">REFRESH RATE</string>
+    <string name="hdr">HDR</string>
+    <string name="not_available">Not Available</string>
+    <string name="display_modes">DISPLAY MODES</string>
+    <string name="modes">Modes</string>
+    <string name="dpi_class">DPI Class</string>
+    <string name="todo">TODO</string>
+    <string name="hdr_available">HDR Available?</string>
+    <string name="hlg">HLG</string>
+    <string name="wide_color_gamut">WIDE COLOR GAMUT</string>
+    <string name="dpi">DPI</string>
+    <string name="name">Name</string>
+    <string name="display_id">DISPLAY ID</string>
+    <string name="no">No</string>
+    <string name="id">ID</string>
+    <string name="available_only_on_android_11">Available only on Android 11</string>
+    <string name="minimal_post_processing_available">Minimal Post Processing Available?</string>
+    <string name="minimal_post_processing">MINIMAL POST PROCESSING</string>
+    <string name="preferred_wcg_space">Preferred WCG space</string>
+    <string name="wide_color_gamut_available">Wide Color Gamut Available?</string>
+    <string name="hdr_10">HDR 10</string>
+    <string name="size">Size</string>
+    <string name="hdr_10_plus">HDR 10 PLUS</string>
+    <string name="dolby_vision">Dolby Vision</string>
+    <string name="theviciousgames_com">theviciousgames.com</string>
+
+
+</resources>
